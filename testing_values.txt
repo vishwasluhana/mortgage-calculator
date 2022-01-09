@@ -1,0 +1,7 @@
+Please use these values for testing purpose:
+
+Loan amount: 100000
+Years: 20
+Interest rate: 4.8
+repayment frequency: 14
+
